@@ -1,0 +1,2 @@
+import rat
+rat.main()
